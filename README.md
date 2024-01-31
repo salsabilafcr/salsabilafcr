@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning SQL, Python, Tableu, PowerBI
 - 💞️ I’m looking to collaborate on Data Analysis Project
 
+An aspiring Data Analyst. I hold a degree in Chemical Engineering and am currently transitioning into the field of Data Analytics. My problem-solving skills and attention to detail give me an edge in facing and overcoming new challenges in my Data Analytics career. Over the past few months, I've dedicated time to enhance my data analysis skills, mastering Excel, Google Sheets, SQL, and Python. I am also proficient in creating informative and interactive data visualizations using Tableau and Power BI. Through comprehensive training, I've polished my presentation skills, demonstrating my ability to communicate complex findings clearly. I believe my quick learning ability positions me to contribute effectively to the dynamic field of Data Analytics. ![image](https://github.com/salsabilafcr/salsabilafcr/assets/144434242/792d67ff-1286-4b8b-9361-64bad6b01cc3)
+
 
 ## Skills and Tools: <div>
 <p align="center">
